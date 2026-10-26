@@ -1,29 +1,53 @@
-<h1 align="center">⚡ Prasad Lolage</h1>
+<div align="center">
 
-<h3 align="center">💻 Aspiring Java Backend Developer</h3>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F89820&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Prasad+%F0%9F%91%8B;Java+Backend+Developer+%E2%98%95;Building+Clean+%26+Scalable+APIs" alt="Typing SVG" />
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&pause=1000&color=39FF14&center=true&vCenter=true&width=450&lines=Code.+Learn.+Repeat.;Building+My+Future+with+Java+%E2%98%95" />
-</p>
+</div>
 
-### 🖤 About Me
+## 👨‍💻 About Me
 
-* 🎓 Final-Year Computer Engineering Student
-* ☕ Learning Java Backend Development
-* 💻 C | C++ | Java
-* 🧠 Logic Building & Problem Solving
-* 🚀 Dream: Become a Top Java Backend Developer
+- 🎓 Computer Engineering student
+- ☕ java Backend Developer
 
-### ⚡ Tech Stack
+## 🛠️ Tech Stack
+
+**💻 Languages**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,git,github,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java&theme=dark" />
 </p>
 
-### 🌐 Connect
+**🗄️ Databases**
 
-<a href="https://github.com/Prasadlolage2006">
-  <img src="https://img.shields.io/badge/GitHub-39FF14?style=for-the-badge&logo=github&logoColor=black&labelColor=000000" />
-</a>
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark" />
+</p>
 
-<h3 align="center">🖤 Think Deep. Code Smart. Build Big. ⚡</h3>
+**⚙️ Framework**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=spring&theme=dark" />
+</p>
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=prasadlolage2005&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prasadlolage2005&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/prasadlolage2005"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:prasadlolage2005@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/prasad-lolage-2a355a292/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
+
+<div align="center">
+
+*"Write clean code. Build things that scale."* ✨
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer" width="100%"/>
+
+</div>
